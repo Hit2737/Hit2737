@@ -15,20 +15,6 @@ I love to work on projects that help me to build my skills and knowledge. I'm al
   <img src="https://github-readme-stats.vercel.app/api?username=Hit2737&show_icons=true&theme=radical" />
 </p>
 
-<h2 align="center">Pinned Repositories</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hit2737&repo=ES335_Prerequisite_Test_22110098&theme=radical"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hit2737&repo=Data_Narratives_ES114&theme=radical" />
-</p>
-
-
-
-<p align="center">
-  New Repositories are coming soon... Stay Tuned!
-</p>
-
 <h2 align="center">Languages and Tools</h2>
 <p>
 <div align="center">
@@ -43,16 +29,12 @@ I love to work on projects that help me to build my skills and knowledge. I'm al
 <div align="center">
   <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/matlab-%230076D6.svg?style=for-the-badge&logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/Inventor-%23F53838.svg?style=for-the-badge&logo=autodesk&logoColor=white">
-  <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/Vivado-%230052C2.svg?style=for-the-badge&logo=xilinx&logoColor=white">
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
 <div align="center">
@@ -70,19 +52,6 @@ I love to work on projects that help me to build my skills and knowledge. I'm al
   <img src="https://img.shields.io/badge/seaborn-%23007ACC.svg?style=for-the-badge&logo=seaborn&logoColor=white">
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/anaconda-%2342B029.svg?style=for-the-badge&logo=anaconda&logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/kali-linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-</div>
 </p>
 
 
