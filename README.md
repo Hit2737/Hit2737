@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+👋🙋‍♂️!+I'm+Hitesh;Machine+Learning+Enthusiast;Quick+Learner;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+👋!+I'm+Hitesh;💖+Machine+Learning;Quick+Learner+😎;&center=true&width=500&height=50">
 </p>
 
 Hey, I am ***Hitesh Kumar***, **B.Tech. 2nd year Undergraduate🧑‍🎓** at **IIT Gandhinagar** in the discipline of **Computer Science and Engineering🧑‍💻.** I'm an all-time *Machine Learning* and *Mathematics* enthusiast. I'm also a good problem solver and a quick learner.
