@@ -17,6 +17,8 @@ I love to work on projects that help me to build my skills and knowledge. I'm al
 <h2 align="center">Pinned Repositories</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hit2737&repo=ES335_Prerequisite_Test_22110098&theme=radical"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hit2737&repo=Data_Narratives_ES114&theme=radical" />
 </p>
 
