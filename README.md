@@ -6,7 +6,7 @@ I love to work on projects that help me to build my skills and knowledge. I'm al
 
 - 🌱 I'm currently learning about different ML algorithms and their implementation.
 - 🔭 I'm currently working on some projects related to **Machine Learning** and **Data Science**.
-- 📫 Reach out to me at: hitesh.kumar@iitgn.ac.in WhatsApp me at **+91 8569970238**
+- 📫 Reach out to me at: hitesh.kumar@iitgn.ac.in or WhatsApp me at <a href="https://wa.me/918569970238">+91 8569970238</a>.
 - ⚡ Fun fact: I love to play badminton🏸 and I'm a good cook🧑‍🍳 too. 😄
 
 <h2 align="center">GitHub Stats</h2>
@@ -85,11 +85,12 @@ I love to work on projects that help me to build my skills and knowledge. I'm al
 </p>
 
 
-## Contact Me
+<h2 align="center">Connect with me</h2>
 <p>
 <div align="center">
   <a href="https://www.linkedin.com/in/hitesh-kumar-077082294/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hitesh.kumar@iitgn.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/918569970238"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 
