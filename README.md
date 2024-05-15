@@ -12,7 +12,7 @@ I love to work on projects that help me to build my skills and knowledge. I'm al
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hit2737&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hit2737&show_icons=true&theme=dark" />
 </p>
 
 <h2 align="center">Languages and Tools</h2>
