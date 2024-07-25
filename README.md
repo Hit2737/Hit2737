@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+👋!+I'm+Hitesh;💖+Machine+Learning;Quick+Learner+😎;&center=true&width=500&height=50">
 </p>
 
-Hey, I am ***Hitesh Kumar***, **B.Tech. 2nd year Undergraduate🧑‍🎓** at **IIT Gandhinagar** in the discipline of **Computer Science and Engineering🧑‍💻.** I'm an all-time *Machine Learning* and *Mathematics* enthusiast. I'm also a good problem solver and a quick learner.
+Hey, I am ***Hitesh Kumar***, **B.Tech. 3rd year Undergraduate🧑‍🎓** at **IIT Gandhinagar** in the discipline of **Computer Science and Engineering🧑‍💻.** I'm an all-time *Machine Learning* and *Mathematics* enthusiast. I'm also a good problem solver and a quick learner.
 I love to work on projects that help me to build my skills and knowledge. I'm always open to learning new things and exploring new domains.
 
 - 🌱 I'm currently learning about different ML algorithms and their implementation.
