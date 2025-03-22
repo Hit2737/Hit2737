@@ -6,7 +6,7 @@ Hey, I am ***Hitesh Kumar***, **B.Tech. 3rd year Undergraduate🧑‍🎓** at *
 I love to work on projects that help me to build my skills and knowledge. I'm always open to learning new things and exploring new domains.
 
 - 🌱 I'm studying about the most important part of CS, Operating Systems and Computer Networks.
-- 🔭 I'm currently working on building upper half of Humanoid in a Semester Course.
+- 🔭 I'm currently working on building software of upper half of Humanoid in a Semester Course.
 - 📫 Reach out to me at: hitesh.kumar@iitgn.ac.in or WhatsApp me at <a href="https://wa.me/918569970238">+91 8569970238</a>.
 - ⚡ Fun fact: I love to play badminton🏸 and I'm a good cook🧑‍🍳 too. 😄
 
