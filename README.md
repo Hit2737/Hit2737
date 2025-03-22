@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+👋!+I'm+Hitesh;Software+Development+Enthusiast;💖+Machine+Learning;Quick+Learner+😎;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+👋!+I'm+Hitesh;Software+Development+Enthusiast;💖+Machine+Learning;Interested in Robotics;&center=true&width=500&height=50">
 </p>
 
 Hey, I am ***Hitesh Kumar***, **B.Tech. 3rd year Undergraduate🧑‍🎓** at **IIT Gandhinagar** in the discipline of **Computer Science and Engineering🧑‍💻.** I'm an all-time *Machine Learning* and *Mathematics* enthusiast. I'm also a good problem solver and a quick learner.
 I love to work on projects that help me to build my skills and knowledge. I'm always open to learning new things and exploring new domains.
 
-- 🌱 I'm currently learning about different ML algorithms and their implementation.
-- 🔭 I'm currently working on a Local Hosting Quiz App.
+- 🌱 I'm studying about the most important part of CS, Operating Systems and Computer Networks.
+- 🔭 I'm currently working on building upper half of Humanoid in a Semester Course.
 - 📫 Reach out to me at: hitesh.kumar@iitgn.ac.in or WhatsApp me at <a href="https://wa.me/918569970238">+91 8569970238</a>.
 - ⚡ Fun fact: I love to play badminton🏸 and I'm a good cook🧑‍🍳 too. 😄
 
